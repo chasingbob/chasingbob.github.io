@@ -1,4 +1,4 @@
-## Resources
+## Resources:
 
 [Maintained List of the Best Deep Learning Resources](https://github.com/chasingbob/deep-learning-resources)
 
