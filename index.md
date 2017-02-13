@@ -4,7 +4,7 @@
 
 [Google+ Deep Learning Collection](https://plus.google.com/collection/YewGx)
 
-## My projects:
+## Projects:
 
 [SqueezeNet Keras Dogs vs. Cats demo](https://github.com/chasingbob/squeezenet-keras)
 
