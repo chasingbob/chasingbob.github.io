@@ -15,5 +15,7 @@
 
 ### Get in touch
 
-t: dries139
-e: dries.cronje@outlook.com 
+![](assets/icons with padding/twitter.png) dries139
+![](assets/icons with padding/google-plus.png)
+![](assets/icons with padding/github.png)
+
