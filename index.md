@@ -1,4 +1,4 @@
-## Resources:
+## Resources
 
 [Maintained List of the Best Deep Learning Resources](https://github.com/chasingbob/deep-learning-resources)
 
@@ -9,6 +9,7 @@
 [SqueezeNet Keras Dogs vs. Cats demo](https://github.com/chasingbob/squeezenet-keras)
 
 [Keras Visualisation Tools](https://github.com/chasingbob/keras-visuals)
+
 
 
 
