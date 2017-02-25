@@ -10,6 +10,8 @@
 
 [Keras Visualisation Tools](https://github.com/chasingbob/keras-visuals)
 
+[Raspberry Pi Magic Mirror with Kivy front-end](https://github.com/chasingbob/enlightment-mirror)
+
 
 
 
