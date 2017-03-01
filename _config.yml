@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 title: Dries Cronje
 description: My Web Presence
+show_downloads: false
