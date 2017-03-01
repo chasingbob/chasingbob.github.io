@@ -1,6 +1,6 @@
 ## Resources
 
-[Maintained List of the Best Deep Learning Resources](https://github.com/chasingbob/deep-learning-resources)
+[My List of the Best Deep Learning Resources](https://github.com/chasingbob/deep-learning-resources)
 
 [Google+ Deep Learning Collection](https://plus.google.com/collection/YewGx)
 
@@ -9,6 +9,8 @@
 [SqueezeNet Keras Dogs vs. Cats demo](https://github.com/chasingbob/squeezenet-keras)
 
 [Keras Visualisation Tools](https://github.com/chasingbob/keras-visuals)
+
+[Slack for Home Automation](https://github.com/chasingbob/slack-home-automation)
 
 [Raspberry Pi Magic Mirror with Kivy front-end](https://github.com/chasingbob/enlightment-mirror)
 
