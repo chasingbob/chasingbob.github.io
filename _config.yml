@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-minima
 title: Dries Cronje
 description: My Web Presence
 show_downloads: false
