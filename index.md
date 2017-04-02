@@ -14,6 +14,10 @@
 
 [Raspberry Pi Magic Mirror with Kivy front-end](https://github.com/chasingbob/enlightment-mirror)
 
+## Presentations
+
+[Git: Deep Learning Talk](https://github.com/chasingbob/deep-learning-talk)
+
 ## Some of my Quora answers
 
 [What is the big deal with Keras 2?](https://www.quora.com/What-is-the-big-deal-with-Keras-2/answer/Dries-Cronje)
@@ -37,6 +41,6 @@
 ## Get in touch
 
 [![](assets/icons with padding/twitter.png)](https://twitter.com/dries139) 
-[![](assets/icons with padding/google-plus.png)](https://plus.google.com/+DriesCronje1977)
+[![](assets/icons with padding/google-plus.png)](https://plus.google.com/collection/YewGx)
 [![](assets/icons with padding/github.png)](https://github.com/chasingbob)
 
