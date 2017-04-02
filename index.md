@@ -18,6 +18,8 @@
 
 [Git: Deep Learning Talk](https://github.com/chasingbob/deep-learning-talk)
 
+* Slides to be made public after the presentation
+
 ## Some of my Quora answers
 
 [What is the big deal with Keras 2?](https://www.quora.com/What-is-the-big-deal-with-Keras-2/answer/Dries-Cronje)
