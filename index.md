@@ -1,8 +1,10 @@
+## My Articles
+
+[Deep Learning - a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
+
 ## Resources
 
-[My List of the Best Deep Learning Resources](https://github.com/chasingbob/deep-learning-resources)
-
-[Google+ Deep Learning Collection](https://plus.google.com/collection/YewGx)
+[My List of Deep Learning Resources](https://github.com/chasingbob/deep-learning-resources)
 
 ## Projects
 
@@ -12,21 +14,16 @@
 
 [Slack for Home Automation](https://github.com/chasingbob/slack-home-automation)
 
-[Raspberry Pi Magic Mirror with Kivy front-end](https://github.com/chasingbob/enlightment-mirror)
-
-## Presentations
-
-[Git: Deep Learning Talk](https://github.com/chasingbob/deep-learning-talk)
-
-* Slides to be made public after the presentation
 
 ## Some of my Quora answers
+
+[How do you plot training and validation loss on the same graph using TensorFlow’s TensorBoard?](https://www.quora.com/How-do-you-plot-training-and-validation-loss-on-the-same-graph-using-TensorFlow%E2%80%99s-TensorBoard/answer/Dries-Cronje)
+
+[In neural networks, are some parts of the resultant “algorithm” actually data rather than code?](https://www.quora.com/In-neural-networks-are-some-parts-of-the-resultant-%E2%80%9Calgorithm%E2%80%9D-actually-data-rather-than-code/answer/Dries-Cronje)
 
 [What is the big deal with Keras 2?](https://www.quora.com/What-is-the-big-deal-with-Keras-2/answer/Dries-Cronje)
 
 [How do I define custom activation function in Keras?](https://www.quora.com/How-do-I-define-custom-activation-function-in-Keras/answer/Dries-Cronje)
-
-[How useful are standard Recurrent Neural Networks?](https://www.quora.com/How-useful-are-standard-Recurrent-Neural-Networks/answer/Dries-Cronje)
 
 [Can convolutional neural network be used to classify paintings?](https://www.quora.com/Can-convolution-neural-network-be-used-to-classify-paintings/answer/Dries-Cronje)
 
